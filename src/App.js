@@ -30,7 +30,7 @@ function App() {
         <div>
           <header>
             <div className="header-name">
-              <h1>Protfolio</h1>
+              <h1>Portfolio</h1>
             </div>
             <div className='header-info'>
               <ul className='header-information'>
@@ -161,16 +161,6 @@ function App() {
         </div>
       </div>
 
-
-
-
-
-
-
-
-      
-
-
       <footer>
         <div className='foo'>
           <h1>Thank you for Watching my Protfolio...</h1>
@@ -182,9 +172,7 @@ function App() {
           <a href='https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin'><img className='foo-img' src={logogm} ></img></a>
           <a href='https://dashboard.heroku.com/apps'><img className='foo-img' src={logoh} ></img></a>
           <a href='https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D'><img className='foo-img' src={logot} ></img></a>
-          
-
-            
+             
           </div>
 
         </div>
